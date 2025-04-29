@@ -1,0 +1,15 @@
+  /* Change font */
+body {
+  font-family: 'Georgia', serif;
+}
+
+/* Change link color */
+a {
+  color: #c24b8d; /* soft purple */
+}
+
+/* Bold your sidebar name */
+.author__name {
+  font-weight: bold;
+  color: #004085;
+}
