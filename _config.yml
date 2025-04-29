@@ -23,11 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Feena Hassan"
+  pronouns         : "she/her"
+  bio              : "Currently studying psychology with a focus on behavioral research, with experience in literature reviews and data analysis using SPSS. Seeking remote RA opportunities to contribute to impactful research"
+  employer         : "Iraise Boys and Girsl Corp."
   uri              : # URL
   email            : "fhassann09@gmail.com" 
 
